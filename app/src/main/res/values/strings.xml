@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HW1-3-1</string>
+    <string name="txtCHMS">Комплексная система мониторинга здоровья. Курбатова</string>
+    <string name="eTxtName">ФИО</string>
+    <string name="eTxtAge">Возраст</string>
+    <string name="btnSave">СОХРАНИТЬ</string>
+    <string name="btnPressure">Давление</string>
+    <string name="btnIndicators">Показатели</string>
+    <string name="pUp">Верхнее давление</string>
+    <string name="pDown">Нижнее давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="date">Дата замера</string>
+    <string name="weight">Вес</string>
+    <string name="stepsNumber">Количество шагов</string>
+    <string name="txtEx">Неправильно введены данные</string>
+    <string name="txtEx2">Неправильно введены данные. Введите дробь через точку</string>
+</resources>
